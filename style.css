@@ -18,10 +18,12 @@ body{
 .header{
     display: flex;
     background-color: #273f4f;
-    width: 80%;
+    width: 95%;
     height: 20%;
     justify-content: center;
     align-items: center;
+    border: 8px, solid, #447d9b;
+    border-radius: 20px;
 }
 
 h1{
